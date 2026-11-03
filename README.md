@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusAI — Intelligent Student Support Agent
 
 A demonstration AI-powered student support application built with **Python, Streamlit, and Groq**. CampusAI helps students ask questions about fees, academic records, scholarships, institute policies, and support requests. The agent can select relevant tools, retrieve policy information from a student handbook, and use persistent memory when appropriate.
@@ -294,3 +295,7 @@ The agent should use only the information required for the current question. If 
 **Course:** Agentic AI Engineering  
 **Programme:** PGDM — Big Data Analytics / AI & Data Science  
 **Batch:** 2025–27
+=======
+# Student-Support-Agent
+Project-Assignment-BDA
+>>>>>>> 09870190f458e2f36aa86ae6b3bfdfc821142f33
